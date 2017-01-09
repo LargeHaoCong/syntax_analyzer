@@ -131,3 +131,8 @@ def entry():
 	# 	print line
 	print dic_follow
 entry()
+"""
+☆*°☆*°(∩^o^)~━
+      (ˉ▽￣～) ~~ 一捆好葱 (*˙︶˙*)☆*°
+      Fuction：语法分析 √ ━━━━━☆*°☆*°
+"""
