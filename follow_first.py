@@ -130,8 +130,3 @@ def entry():
 	# for line in list_sum:
 	# 	print line
 	print dic_follow
-"""
-☆*°☆*°(∩^o^)~━
-      (ˉ▽￣～) ~~ 一捆好葱 (*˙︶˙*)☆*°
-      Fuction：语法分析 √ ━━━━━☆*°☆*°
-"""
